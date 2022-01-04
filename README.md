@@ -3,7 +3,7 @@
 
 Formulário criado em Aula online disponível no Youtube
 
-[Acessse a páginado projeto cordel aqui](https://boca3l.github.io/Cadastro---R.B/)
+[Acessse o formulário aqui](https://boca3l.github.io/Cadastro---R.B/)
 
 [Acesse a aula](https://www.youtube.com/watch?v=wwqOJ2o84S4)
 
